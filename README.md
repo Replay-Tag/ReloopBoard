@@ -19,6 +19,11 @@ saves sounds and settings through json
 2. Build the project using Visual Studio 2022.
 3. Use it.
 
+# Roadmap
+
+1. Plan to add shortcuts for sounds
+2. idk.. stuff
+
 # License
 
 This project is licensed under the MIT License.
