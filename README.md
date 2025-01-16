@@ -1,9 +1,17 @@
 # ReloopBoard
 free, open-source, soundboard thingy.
 
+![Logo](ReloopBoard.png)
+![Screenshot](image_2025-01-16_035747904.png)
+
 # Features
 
 well you can add sounds and play sounds.. thats kinda it
+
+saves sounds and settings through json
+
+# Requirements
+1. VB Audio-Cable (for the microphone output to play sounds on discore, games, etc.)
 
 # Compiling
 
