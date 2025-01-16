@@ -11,7 +11,7 @@ well you can add sounds and play sounds.. thats kinda it
 saves sounds and settings through json
 
 # Requirements
-1. VB Audio-Cable (for the microphone output to play sounds on discore, games, etc.)
+1. VB Audio-Cable (for the microphone output to play sounds on discord, games, etc.)
 
 # Compiling
 
