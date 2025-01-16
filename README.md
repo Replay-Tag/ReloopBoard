@@ -24,6 +24,9 @@ saves sounds and settings through json
 1. Plan to add shortcuts for sounds
 2. idk.. stuff
 
+# Known Issues
+1. sometimes crashes when opening settings tab
+
 # License
 
 This project is licensed under the MIT License.
